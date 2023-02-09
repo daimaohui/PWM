@@ -1,0 +1,1 @@
+set_property -dict {PACKAGE_PIN Y14 IOSTANDARD LVCMOS33} [get_ports {motor1}]
